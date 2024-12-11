@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+    <title>Registration</title>
+    <link rel="stylesheet" type="text/css" href ="static/styles.css" >
+    </head>
+    <!--Creates account for user.-->
+    <body>
+
+    <h1>Kittens versus Ninja Stars(Shurikens) Registration</h1>
+    <h2>Your password must contain:</h2>
+    <ul>
+        <li>more than 12 characters.</li>
+        <li>a special character.</li>
+        <li>a lower case character.</li>
+        <li>an upper case character.</li>
+        <li>a number.</li>
+    </ul>
+
+    <form action="/registration" method="post">
+        <label for="username">Username</label> <input type="text" name="username">
+        <label for="password">Password</label> <input type="password" name="password">
+        <label for="confirm password">Confirm Password</label> <input type="password" name="confirmedPassword">
+        <input type="submit" class="submit" value="create">
+    </form>
+
+    <h2>{{get_flashed_messages()[0]}}</h2>
+
+    <h3>{{currentDate}}</h3>
+    </body>
+</html>
