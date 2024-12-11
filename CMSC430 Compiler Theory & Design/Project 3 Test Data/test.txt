@@ -1,0 +1,7 @@
+// Test Logical and Relational Operators
+// 0 & 1 | 0 -> 0
+
+function main returns integer;
+begin
+    when !(6 = 6), 1 : 0;
+end;
