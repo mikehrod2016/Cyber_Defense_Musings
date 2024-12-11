@@ -1,0 +1,3 @@
+# Resumes # 
+
+Both resumes are up to date as of November 2024. Cyber resume is a one page focused resume on Cyber Security related jobs only. Primary positions include my time as a Cyber Warning Threat Intelligence Analyst and a Digital Network Analyst. Master Resume is a two and a half page resume detailing my eight year US Navy career. This would be inclusive of hard and soft skills. Soft skills are mainly from volunteer work and collateral military duties. Collateral duties including Education Support Officer, Assistant Command Fitness Leader, Supply Officer, Navy Marine Corp. Relief Society Respresentive, Executive Transportation Driver, and Honors and Ceremonies Regional Guard.  

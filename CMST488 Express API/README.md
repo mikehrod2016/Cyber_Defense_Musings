@@ -1,6 +1,6 @@
 # CMST 488 Project 4: Setting up an Express.js API
 
-Starter template files for project 4 to setup an express.js API. Project includes routes handled in home and resource controllers. The model Resource.js defines the resource structure and validation. The config.env.txt file serves as the template for config.env.
+Starter files for an express.js API. Project includes routes handled in home and resource controllers. The model Resource.js defines the resource structure and validation. The config.env.txt file serves as the template for config.env. This project was for a 2023 Advanced JavaScript class. API allows for custom JSON records to be returned from a small MongoDB on JavaScript books.  
 
 ## Installation
 
